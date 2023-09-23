@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>ResetCurrent3DView - Command 1</Text>
+    <Description>Some description for ResetCurrent3DView</Description>
+    <Assembly>ResetCurrent3DView.dll</Assembly>
+    <FullClassName>ResetCurrent3DView.Command1</FullClassName>
+    <ClientId>7402c78d-97d0-4b21-a07a-526f13bf2b58</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>ResetCurrent3DView - Command 2</Text>
+    <Description>Some description for ResetCurrent3DView</Description>
+    <Assembly>ResetCurrent3DView.dll</Assembly>
+    <FullClassName>ResetCurrent3DView.Command2</FullClassName>
+    <ClientId>0278fe74-a3a4-4675-85ec-4c66ac17dd07</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>ResetCurrent3DView</Name>
+    <Assembly>ResetCurrent3DView.dll</Assembly>
+    <FullClassName>ResetCurrent3DView.App</FullClassName>
+    <ClientId>5b95f677-c8ec-4b83-a468-4cfe540e3eb4</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
